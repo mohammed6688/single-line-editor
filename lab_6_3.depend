@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638513366 source:e:\iti\lec\c\lec_6\lab_6_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\iti\lec\C\MyLibrary.h"
+
+1637750860 e:\iti\lec\c\mylibrary.h
+	<windows.h>
+
+1638603985 source:e:\iti\lec\c\lec_7\lab_7_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\iti\lec\C\MyLibrary.h"
+
